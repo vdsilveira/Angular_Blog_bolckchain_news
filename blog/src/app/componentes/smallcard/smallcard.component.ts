@@ -12,6 +12,8 @@ export class SmallcardComponent  implements OnInit{
   Fotocapa:string=""
   @Input()
   titulopag:string=""
+  @Input()
+  ID:string="0"
 
   
 

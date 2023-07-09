@@ -1,0 +1,31 @@
+
+.container__smallcard2{
+   
+    width: 700px;
+    height: 150px;
+    display: flex;
+    flex-direction:row;
+    align-items:flex-start;
+    justify-content: flex-start;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.smallcard2__titulo > h1 > a{
+    font-size: 35px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+
+
+.smallcard2__foto >img {
+    width: 200px;
+    height: 155px;
+    margin-right: 20px;
+}
