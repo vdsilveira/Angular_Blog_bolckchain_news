@@ -8,26 +8,23 @@
     justify-content: flex-start;
     margin-left: 20px;
     margin-right: 20px;
-
+    margin-top: 20px;
+    
 }
 
-.bigcard__titulo > h1{
+.bigcard__titulo > h1 > a{
     margin-top: 10px;
     font-size: 50px;
 }
 
-
-.bigcard__texto > p {
-     margin-top: 10px;
-}
-
-
 .bigcard__texto > p > a{
     color: grey;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .bigcard__foto >img {
     width: 100%;
     height: 300px;
 }
+
